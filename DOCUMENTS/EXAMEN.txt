@@ -27,5 +27,16 @@ git push examen
 git add *
 git commit -m "versio5"
 git push examen
----------------------------
-
+--------------------------
+git branch ampliacio
+git checkout ampliacio
+git add *
+git push --set-upstream examen ampliacio
+git commit -m "versio6"
+git push examen
+-------------------------
+git checkout master
+git merge ampliacio
+git add *
+git commit -m "versio7"
+git push examen
