@@ -8,9 +8,20 @@ git add README.MD
 git commit -m "first"
 git push --set-upstream examen master
 mkdir DOCUMENTS
+git commit -m "versio1"
+git push examen
 ---------------------------
 git add LICENSE.txt
 git add EXAMEN.txt
+git commit -m "versio2"
+git push examen
 ---------------------------
-
 touch .gitignore
+git commit -m "versio3"
+git push examen
+---------------------------
+git add *
+git commit -m "versio4"
+git push examen
+
+
