@@ -1,6 +1,6 @@
 ﻿namespace examenm5uf2
 {
-    partial class Form1
+    partial class FrmMain
     {
         /// <summary>
         ///  Required designer variable.
