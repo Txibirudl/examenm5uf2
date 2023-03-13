@@ -1,0 +1,10 @@
+cd dam2m5uf2
+mkdir examen5uf2
+cd examenm5uf2
+git init
+git remote add examen https://github.com/Txibirudl/examenm5uf2.git
+git add AUTHOR.txt
+git add README.MD
+git commit -m "first"
+git push --set-upstream examen master
+mkdir DOCUMENTS
