@@ -11,3 +11,6 @@ mkdir DOCUMENTS
 ---------------------------
 git add LICENSE.txt
 git add EXAMEN.txt
+---------------------------
+
+touch .gitignore

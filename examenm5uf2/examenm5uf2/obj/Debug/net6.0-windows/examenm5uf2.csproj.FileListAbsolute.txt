@@ -1,0 +1,17 @@
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\bin\Debug\net6.0-windows\examenm5uf2.exe
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\bin\Debug\net6.0-windows\examenm5uf2.deps.json
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\bin\Debug\net6.0-windows\examenm5uf2.runtimeconfig.json
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\bin\Debug\net6.0-windows\examenm5uf2.dll
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\bin\Debug\net6.0-windows\examenm5uf2.pdb
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.csproj.AssemblyReference.cache
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.Form1.resources
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.csproj.GenerateResource.cache
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.AssemblyInfoInputs.cache
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.AssemblyInfo.cs
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.csproj.CoreCompileInputs.cache
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.dll
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\refint\examenm5uf2.dll
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.pdb
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\examenm5uf2.genruntimeconfig.cache
+C:\Users\obj26\dam2m5uf2\examen5uf2\examenm5uf2\examenm5uf2\obj\Debug\net6.0-windows\ref\examenm5uf2.dll
