@@ -31,7 +31,9 @@ git push examen
 git branch ampliacio
 git checkout ampliacio
 git add *
-git commit -m "versio4"
+git push --set-upstream examen ampliacio
+git commit -m "versio6"
 git push examen
+-------------------------
 
 
